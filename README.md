@@ -38,7 +38,6 @@ This project focuses on analyzing customer data to understand why customers leav
 
 ## Project Structure
 
-customer-churn/
 ├── data/
 ├── notebooks/
 └── README.md
